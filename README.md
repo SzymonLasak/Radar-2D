@@ -1,4 +1,4 @@
-# Radar-2D
+# Sonar-2D
 ENG:
 The 2D radar project was developed to create a simple system capable of detecting objects in the surrounding environment and visualizing them graphically. The system allows scanning of the surrounding space within a 360° range and presents measurement results on a computer in the form of a plot resembling the operation of a classic radar. Solutions of this type are commonly used in robotics, navigation systems, and simple environment-mapping applications.
 
